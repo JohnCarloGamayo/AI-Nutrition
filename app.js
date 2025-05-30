@@ -289,7 +289,7 @@ async function sendMessage(userText = null) {
       {
         method: 'POST',
         headers: {
-          'Authorization': 'Bearer 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',
+          'Authorization': 'Bearer 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',
           'HTTP-Referer': 'https://www.sitename.com',
           'X-Title': 'SiteName',
           'Content-Type': 'application/json',
